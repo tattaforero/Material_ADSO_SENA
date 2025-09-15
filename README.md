@@ -22,6 +22,16 @@ Estructura por **Actividades de Aprendizaje (AA)** y sus **Evidencias (EV)**, ad
 
 ---
 
+## 🎥 Videos Explicativos
+
+Complementa el material de la **Guía de Aprendizaje 01 (Fase de Análisis)** con esta serie de videos explicativos en YouTube.  
+En ellos encontrarás explicaciones paso a paso, ejemplos prácticos y demostraciones en herramientas de desarrollo de software.
+
+📺 **Playlist completa:**  
+[🔗 Ver en YouTube](https://youtube.com/playlist?list=PLf_F__X19wkBWgWU1mqn-6mlNKhdLQ6uf&si=S-BQ_gPhSoJUDknU)
+
+---
+
 ## 🧭 Cómo navegar
 
 1. Entra a la carpeta de la **Actividad (AA)** que te corresponda.
