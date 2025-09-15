@@ -1,6 +1,6 @@
 1. Ideas Proyecto
 Hola, soy un estudiante de una formación tecnológica llamada Análisis y Desarrollo de Software (rol). 
-La formación tiene una estrategia de aprendizaje denominada ABP Aprendizaje Basado en Proyectos. A lo largo de la formación debo llevar a cabo un proyecto en el que se apliquen todos los conocimientos que voy adquiriendo desde la fase de análisis hasta la fase de evaluación. . El proyecto debe brindar una solución a una empresa MiPyME para que esta pueda mejorar sus procesos a través de una solución tecnológica como una app móvil, aplicación Web, E-commerce, Sistema de información, etc.(contexto)
+La formación tiene una estrategia de aprendizaje denominada ABP Aprendizaje Basado en Proyectos. A lo largo de la formación debo llevar a cabo un proyecto en el que se apliquen todos los conocimientos que voy adquiriendo desde la fase de análisis hasta la fase de evaluación. El proyecto debe brindar una solución a una empresa MiPyME para que esta pueda mejorar sus procesos a través de una solución tecnológica como una app móvil, aplicación Web, E-commerce, Sistema de información, etc.(contexto)
 Lo primero en lo que quisiera que me ayudaras es a identificar un proyecto que pueda proponer para el desarrollo de la formación, que sea un proyecto significativo, realista, y con potencial de crecimiento. (tarea)
 
 2. Revisión de ideas propuestas.
@@ -85,7 +85,7 @@ Sí, me gustaría tener reportes visuales sobre ventas diarias, productos más v
 4. Realizar un análisis basado en las respuestas obtenidas que se asocie con el objetivo del proyecto.El análisis debe presentar:
 - Problemáticas comunes
 - Requerimientos generales
-- uncionalidades clave a desarrollar
+- Funcionalidades clave a desarrollar
 
 Nota: a continuación copio las preguntas del instrumento Entrevista:
 
@@ -190,9 +190,10 @@ Las herramientas sugeridas son las siguientes:
 -Jama Jama Software jamasoftware.com -Accept 360 Accept Software technologyevaluation.com/solutions/17078/accept360 
 -Gatherspace Gatherspace gatherspace.com/project-management-software-solutions/ 
 -RequisitePro IBM Rational ibm.com/support/pages/rational-requisitepro-713 
+
 Debo seleccionar una herramienta, Redactar un documento donde describa la herramienta a utilizar y colocar los pantallazos de la configuración. 
 
-Requiero de tu ayuda para identificar la herramienta que mejor me permita desarrollar la actividad, que sea gratuoita y que me indiques cómo la puedo configurar para revisar los requisitos del proyecto. En caso de que en las herramientas listadas no haya una gratuita por favor indicar una herramienta similar que me permita desarrollar la actividad sin acarrear costos.
+Requiero de tu ayuda para identificar la herramienta que mejor me permita desarrollar la actividad, que sea gratuita y que me indiques cómo la puedo configurar para revisar los requisitos del proyecto. En caso de que en las herramientas listadas no haya una gratuita por favor indicar una herramienta similar que me permita desarrollar la actividad sin acarrear costos.
 
 AA5-EV02
 
