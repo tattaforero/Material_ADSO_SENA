@@ -1,0 +1,106 @@
+Guía de aprendizaje 02
+
+AA1 - EV02
+
+Actúa como un Analista de Requisitos de Software experto.
+
+
+Tu tarea es generar las especificaciones detalladas de casos de uso para todos los requisitos funcionales del proyecto "Sistema de Gestión de Pedidos para Restaurantes". Para cada requisito funcional en la lista proporcionada, crea una especificación de caso de uso completa, siguiendo estrictamente el formato de tabla estándar (dos columnas: Encabezado | Contenido) con los siguientes campos:
+
+
+ID CU: Identificador único del caso de uso (ej: CU-01)
+NOMBRE CU: Nombre descriptivo del caso de uso (ej: Registrar Nuevo Pedido)
+CREADO POR: Nombre o cargo del realizador
+FECHA DE LA CREACIÓN: "Hoy"
+ACTORES: Identifica los actores involucrados (ej: Mesero, Cajero, etc.)
+DESCRIPCIÓN: Breve descripción del propósito del caso de uso.
+PRE-CONDICIONES: Condiciones que deben cumplirse antes de que el caso de uso pueda comenzar.
+POST-CONDICIONES: Resultados que se producen después de que el caso de uso se completa.
+FLUJO NORMAL: Secuencia de pasos que ocurren cuando todo funciona correctamente.
+FLUJO ALTERNATIVO: Describe un escenario alternativo con al menos un flujo (ej: Error de validación de datos).
+EXCEPCIONES: Describe una situación excepcional con al menos una excepción (ej: Fallo de conexión a la base de datos).
+PRIORIDAD: Nivel de importancia del caso de uso (Alta, Media, Baja).
+FRECUENCIA DE USO: Estimación de la frecuencia con la que se utilizará el caso de uso (Diario, Semanal, Mensual).
+
+El resultado final debe ser un documento de Word (.docx) que contenga:
+
+
+Portada: ("Nombre del aprendiz")
+Tabla de Contenido: Generada automáticamente basada en las secciones del documento.
+Introducción: Breve descripción del proyecto y el propósito de las especificaciones de casos de uso (Inventar contenido genérico).
+Especificaciones de los Casos de Uso: Todas las especificaciones en formato de tabla, como se describió anteriormente.
+Conclusiones: Breve resumen del proceso y las implicaciones de las especificaciones (Inventar contenido genérico).
+Referencias: Lista de referencias genéricas (referencias aplicadas a la temática).
+
+Aquí están los requisitos funcionales del sistema:
+
+
+Módulo de Toma de Pedidos (Mesero):
+RF01. El sistema debe permitir al mesero registrar un nuevo pedido desde una interfaz digital.
+RF02. El sistema debe permitir seleccionar productos desde un menú digital con categorías.
+RF03. El sistema debe permitir agregar observaciones o modificaciones al pedido (sin sal, extra queso, etc.).
+RF04. El sistema debe enviar el pedido automáticamente a la cocina.
+RF05. El sistema debe permitir consultar el estado de cada pedido (en preparación, listo, entregado).
+
+Módulo de Cocina:
+RF06. El sistema debe mostrar los pedidos pendientes en orden de llegada.
+RF07. El sistema debe permitir marcar los pedidos como “en preparación”, “listo” o “entregado”.
+RF08. El sistema debe mostrar el tiempo transcurrido desde que se realizó el pedido.
+
+Módulo de Caja:
+RF09. El sistema debe permitir generar la cuenta automáticamente en base a los pedidos realizados.
+RF10. El sistema debe permitir aplicar descuentos y calcular el total.
+RF11. El sistema debe permitir seleccionar el método de pago (efectivo, tarjeta, código QR).
+RF12. El sistema debe generar un comprobante de pago o factura.
+
+Módulo Administrativo:
+RF13. El sistema debe permitir la gestión del menú (agregar, editar, eliminar productos).
+RF14. El sistema debe permitir la gestión de usuarios y asignación de roles (mesero, cocinero, administrador).
+RF15. El sistema debe permitir visualizar reportes de ventas diarios, semanales y mensuales.
+RF16. El sistema debe generar reportes de productos más vendidos.
+RF17. El sistema debe permitir realizar consultas sobre el historial de pedidos.
+RF18. El sistema debe generar alertas de bajo inventario.
+RF19. El sistema debe permitir registrar ingresos y salidas de productos del inventario.
+
+Módulo de Seguridad y Acceso:
+RF20. El sistema debe contar con autenticación de usuarios mediante credenciales.
+RF21. El sistema debe permitir cambiar la contraseña del usuario autenticado.
+RF22. El sistema debe registrar el historial de acceso de los usuarios."
+
+
+AA1 - EV04
+
+Asunto: Necesito ayuda para elaborar un informe con diagramas de actividades para el proyecto software "Sistema de Gestión de Pedidos para Restaurante" (SGPR).
+
+
+Detalles del Proyecto (Contexto):
+
+Nombre del Proyecto: Sistema de Gestión de Pedidos para Restaurante (SGPR)
+Descripción: El SGPR es una solución de software diseñada para automatizar y optimizar los procesos de toma de pedidos, gestión de cocina, facturación y administración en un restaurante.
+Alcance: El alcance inicial del proyecto incluye los siguientes módulos:
+ Toma de Pedidos (para meseros)
+ Cocina (visualización y gestión de la preparación de pedidos)
+ Caja (cobro y emisión de comprobantes)
+ Administrativo (gestión de menú, usuarios, inventario y reportes)
+ Seguridad y Acceso
+
+Tarea Específica:
+
+Ya he creado los diagramas de actividades para el SGPR. Necesito tu ayuda para elaborar y presentar un documento de informe profesional que los incluya, siguiendo las siguientes especificaciones:
+
+
+Formato del Documento Final:
+
+Formato: Microsoft Word (.docx)
+
+Estructura del Documento:
+
+- Portada: Debe incluir mi nombre ("[Tu Nombre]").
+- Tabla de Contenido: Generada automáticamente.
+- Introducción:Breve descripción general del proyecto SGPR.
+- Propósito de los diagramas de actividades en el contexto del proyecto.
+- Diagramas de Actividades: (Aquí es donde insertarás tus diagramas).
+- Incluye un encabezado o título descriptivo para cada diagrama.
+- Conclusiones:Breve resumen del proceso de modelado con diagramas de actividades.Implicaciones de los diagramas de actividades para el desarrollo y la comprensión del SGPR.
+- Referencias:Lista de referencias genéricas relacionadas con el diseño de sistemas, UML o diagramas de actividades.(Por favor, genera una lista de referencias genéricas apropiadas).
+
