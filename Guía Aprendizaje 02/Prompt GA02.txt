@@ -104,3 +104,96 @@ Estructura del Documento:
 - Conclusiones:Breve resumen del proceso de modelado con diagramas de actividades.Implicaciones de los diagramas de actividades para el desarrollo y la comprensión del SGPR.
 - Referencias:Lista de referencias genéricas relacionadas con el diseño de sistemas, UML o diagramas de actividades.(Por favor, genera una lista de referencias genéricas apropiadas).
 
+
+AA2 - EV01 - Diagrama de dominio
+
+*** Parte 1 ***
+
+Actúa como un experto en análisis y diseño orientado a objetos. Tu tarea es analizar la siguiente descripción de una actividad y determinar con precisión qué producto se espera como resultado final.
+
+
+Descripción de la Actividad:
+
+
+Se requiere la elaboración de un modelo del dominio del proyecto mediante un diagrama de clases que represente las entidades clave, sus atributos y las relaciones entre ellas (cardinalidad, dependencias, herencias). Este diagrama debe organizarse en paquetes para facilitar la comprensión y el mantenimiento del sistema.
+
+
+Consideraciones Clave:
+
+
+- Diagrama de Dominio: Seguir las mejores prácticas y convenciones para la creación de diagramas de dominio.
+- Claridad y Legibilidad: El diagrama de clases debe ser visualmente claro, bien organizado y fácil de entender.
+- Diagrama de Paquetes (Opcional): Complementar el diagrama de clases con un diagrama de paquetes que muestre la estructura modular del sistema.
+- Requisitos del Software: El modelo del dominio debe reflejar y satisfacer los requisitos del sistema proyecto.
+- UML: Utilizar la notación UML estándar para diagramar las clases y los paquetes.
+
+Pregunta Principal:
+
+
+¿Cuál es el producto específico que se espera entregar como resultado de esta actividad? Describe en detalle el contenido, la estructura y el formato del documento final.
+
+*** Parte 2 ***
+Insumo para la creación del diagrama de clases:
+Clases, atributos, métodos y relaciones
+
+De acuerdo, a continuación presenta en una tabla la identificación de las clases (atributos y métodos) y sus relaciones de acuerdo al proyecto Sistema de Gestión de Pedidos para Restaurantes.
+
+Revisar la pertinencia con los requisitos del proyecto, Ejemplo: 
+Antes quisiera que me indicaras a través de qué relación, atributo o método se están teniendo en cuenta los siguientes requerimientos: 
+
+- RF06. El sistema debe mostrar los pedidos pendientes en orden de llegada. 
+- RF08. El sistema debe mostrar el tiempo transcurrido desde que se realizó el pedido. 
+- RF13. El sistema debe permitir la gestión del menú (agregar, editar, eliminar productos).
+
+*** Parte 3 ***
+Elaborar el diagrama de clases en herramienta CASE
+
+Descargar como gráfico y presentar al chat para revisión:
+
+Analiza el siguiente diagrama de clases y responde las siguientes preguntas:
+
+
+¿Consideras que todas las clases necesarias para representar el dominio del proyecto están presentes? ¿Falta alguna?
+¿Son los atributos definidos para cada clase los adecuados? ¿Debería agregarse o eliminarse alguno?
+¿Son correctas las relaciones de asociación, agregación, composición y herencia entre las clases? ¿Está bien definida la cardinalidad?
+¿Cumple el diagrama con los estándares de notación UML?
+¿Representa fielmente el diagrama los requisitos y la lógica del proyecto en desarrollo?
+¿Qué sugerencias concretas harías para mejorar la legibilidad y claridad del diagrama?
+
+*** Parte 4 ***
+Entregable
+
+Las características y contenidos del producto serán las siguientes:
+
+1. Portada → con el título Diagrama de Clases y Modelo de Dominio – Sistema de Gestión de Pedidos para Restaurantes.
+
+2. Tabla de contenido
+
+3. Introducción → breve explicación del objetivo del diagrama de clases y su papel dentro del análisis del sistema.
+
+4. Tabla de clases actualizada → incluyendo Reporte y las relaciones refinadas.
+
+5. Lectura de relaciones → las 10 que ya te presenté, en formato formal de informe. Nota: previamente se solicita la forma de leer los relacionamientos entre las clases para comprender mejor su funcionamiento.
+
+6. Esquema narrativo con ejemplos → en lenguaje natural, explicando cómo interactúan los objetos en el mundo real, mostrando cómo se cumplen los requerimientos funcionales (ejemplo: un mesero registra un pedido en la mesa, que genera detalles de pedido, etc.).
+
+7. Conclusiones → utilidad del modelo de dominio, claridad de relaciones, trazabilidad con los requisitos.
+
+8. Referencias → en formato APA (manual UML, bibliografía de análisis de sistemas).
+
+Nota: Mantener el mismo estilo de los informes anteriores y exportar a formato word.
+
+*** Parte 5 ***
+Diagrama de paquetes
+
+Actúa como un arquitecto de software experto en UML. Necesito diseñar un diagrama de paquetes para Proyecto Sistema de Gestión de Pedidos para Restarurantes. 
+
+
+Por favor, realiza lo siguiente:
+
+
+- Identifica los módulos del sistema
+- Identifica los paquetes principales que agrupen áreas funcionales de manera lógica y cohesiva.
+- Describe brevemente la responsabilidad de cada paquete (qué tipo de clases y funcionalidades contiene).
+- Muestra las dependencias entre los paquetes (qué paquetes necesitan usar clases o funcionalidades de otros paquetes).
+- Considera los principios de diseño de software como alta cohesión, bajo acoplamiento y reutilización al definir los paquetes y sus dependencias.
