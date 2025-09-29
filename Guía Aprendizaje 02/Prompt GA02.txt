@@ -197,3 +197,32 @@ Por favor, realiza lo siguiente:
 - Describe brevemente la responsabilidad de cada paquete (qué tipo de clases y funcionalidades contiene).
 - Muestra las dependencias entre los paquetes (qué paquetes necesitan usar clases o funcionalidades de otros paquetes).
 - Considera los principios de diseño de software como alta cohesión, bajo acoplamiento y reutilización al definir los paquetes y sus dependencias.
+
+
+AA3 - EV02 - Validación de los artefactos - https://www.maxai.co/app
+
+Actúa como un experto analista de calidad de software con amplios conocimientos en la validación de artefactos de software según los requisitos del cliente. Tu tarea es ayudarme a generar los documentos necesarios para validar el Sistema de Gestión de Pedidos para Restaurantes Realiza las siguientes tareas, paso a paso: 
+
+1. Elabora una lista de chequeo, en la que se evalué el artefacto Diagrama Casos de Uso e Historias de usuario, incluye una columna en la que se indiquen por completo  los nombres de los requisitos que se evalúan en cada criterio, estos deben ser coherentes con los requisitos, también incluir una columna por separado para: si cumple, parcial, no cumple, y una columna para observaciones /mejoras. Todas las columnas deben deben venir contestadas.
+
+1.2 Ahora elabora la lista de chequeo para validar el artefacto Diagrama de clases manteniendo la misma estructura aplicada a la lista de chequeo de los Diagramas de Casos de Uso.
+
+1.3 Para finalizar elabora la lista de chequeo para validar el artefacto Diagrama de Paquetes. Seguir mismo estilo y estructura de las listas de chequeo de Diagrama de Casos de Uso y Diagrama de Clases.
+
+2. Ahora basado en la aplicación de las listas de chequeo a los 3 artefactos (Diagrama de Casos de Uso, Diagrama de Clases y Diagrama de Paquetes) quiero que elabores un análisis sobre la validación de los artefactos del software del proyecto Sistema de Gestión de Pedidos de Restaurante.
+
+
+3. Construye el informe de validación de artefactos en formato Word que incluya los siguientes contenidos en el orden indicado:
+ 
+- Portada (título, autor, fecha, versión del documento). 
+- Introducción (propósito del informe). 
+- Alcance (qué artefactos se validaron y qué partes del sistema cubren). 
+- Estrategia cumplimiento y criterios de aceptación a seguir para validar los artefactos.
+- Tabla con la identificación de los procesos y usuarios interesados en cada artefacto del software (diagrama de clases, casos de uso, etc.). Especifica qué usuarios deben participar en la validación de cada artefacto.
+- Espacio para incluir las listas de chequeo y el análisis.
+- Conclusiones
+- Referencias
+ 
+
+
+
