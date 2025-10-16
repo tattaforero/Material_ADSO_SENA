@@ -222,7 +222,66 @@ Actúa como un experto analista de calidad de software con amplios conocimientos
 - Espacio para incluir las listas de chequeo y el análisis.
 - Conclusiones
 - Referencias
- 
+
+
+GA2-220501094-AA1-EV02
+Ficha técnica Software
+
+Actúa como un consultor experto en gestión de calidad de software y documentación técnica, con un profundo conocimiento de la norma NTC ISO 9000. Tu tarea es ayudarme a generar una ficha técnica completa y profesional para el proyecto Sistema de Gestión de Pedidos para Restaurantes, basándote en la norma NTC ISO 9000 y en los contenidos adjuntos. 
+
+Realiza las siguientes tareas: 
+- Analiza los contenidos adjuntos para identificar los aspectos clave que deben incluirse en la ficha técnica del proyecto 
+- Diseña la estructura de la ficha técnica como una tabla en formato Word, considerando las secciones relevantes según la norma NTC ISO 9000 y los contenidos adjuntos 
+- Asegúrate de que la estructura permita recolectar información detallada y relevante sobre el proyecto. 
+- Define los campos específicos que se incluirán en cada sección de la ficha técnica, tales como: 
+
+Nombre del proyecto 
+Objetivo del proyecto 
+Alcance del proyecto 
+Responsables del proyecto 
+Normativa aplicada (NTC ISO 9000) 
+Descripción del sistema 
+Características principales 
+Arquitectura del software 
+Tecnologías utilizadas 
+Requisitos funcionales y no funcionales 
+Métricas de calidad
+Versión del software 
+Fecha de elaboración 
+
+- Completa la ficha técnica con la información específica del proyecto Sistema de Gestión de Pedidos para Restaurantes. 
+- Asegúrate de que la ficha técnica cumpla con los principios de claridad, concisión y precisión, y que sea fácil de entender para diferentes tipos de lectores.
+- Exporta la ficha técnica completa en formato de tabla en un archivo Word
+
+
+GA2-220501094-AA1-EV03
+Estimación condiciones económicas
+
+Actúa como un consultor de software con experiencia en la estimación de proyectos y la justificación de inversiones tecnológicas. Tu tarea es elaborar un informe detallado que evalúe las condiciones técnicas y económicas para el desarrollo del Sistema de Gestión de Pedidos para Restaurantes (SGPR), basándote en la ficha técnica del software que ya ha sido elaborada y teniendo como contexto un restaurante de tamaño mediano (20 empleados, 10 mesas, flujo constante de pedidos).
+
+El informe debe incluir lo siguiente: 
+
+1. Análisis Técnico Detallado: 
+- Especificaciones Técnicas: Resume las especificaciones técnicas clave del SGPR (arquitectura, tecnologías, requisitos funcionales y no funcionales). Usa la ficha técnica como referencia principal. 
+- Viabilidad Técnica: Evalúa la viabilidad técnica del proyecto considerando la disponibilidad de recursos (personal cualificado, herramientas, infraestructura), la complejidad de la implementación y los riesgos técnicos identificados. 
+- Justificación de la Arquitectura: Explica por qué la arquitectura de software elegida es la más adecuada para cumplir con los requisitos del SGPR, teniendo en cuenta factores como escalabilidad, mantenibilidad, seguridad y rendimiento. 
+
+2. Análisis Económico Detallado: 
+
+Estimación de Costos: Realiza una estimación detallada de los costos del proyecto, incluyendo: 
+- Costos de Desarrollo: Personal (analistas, programadores, testers), herramientas de desarrollo, licencias de software. - - Costos de Infraestructura: Servidores, bases de datos, redes, seguridad. 
+- Costos de Implementación: Instalación, configuración, migración de datos, capacitación del personal. 
+- Costos de Mantenimiento: Soporte técnico, actualizaciones, corrección de errores, mejoras. 
+
+Informe Final: 
+- Portada: Título del informe, nombre del autor, fecha. - Introducción: Propósito del informe, alcance, metodología utilizada. 
+- Contenido: Presenta el análisis técnico y económico detallado. 
+- Recomendaciones: Ofrece recomendaciones específicas sobre la viabilidad del proyecto, los riesgos a mitigar, las oportunidades a aprovechar y las decisiones a tomar. 
+- Conclusión: Resume las principales conclusiones del informe y ofrece una evaluación general del proyecto. 
+- Formato: Elabora el informe en un documento de Word bien estructurado y profesional. 
+- Utiliza tablas, gráficos y diagramas para presentar la información de forma clara y concisa. 
+- Cita las fuentes de información utilizadas.
+
 
 
 
