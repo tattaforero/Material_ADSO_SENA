@@ -283,5 +283,67 @@ Informe Final:
 - Cita las fuentes de información utilizadas.
 
 
+GA2-220501094-AA2-EV01
+
+Ficha técnica - Términos de referencia - Lista de chequeo de proveedores
+
+Necesito tu apoyo con la generación de dos documentos esenciales para la contratación y evaluación de proveedores de software para el desarrollo del Sistema de Gestión de Pedidos para Restaurantes (SGPR), basándote en la ficha técnica adjunta. 
+
+Primer documento:
+
+1. Términos de Referencia (TDR): Simula la solicitud de este software por parte de un cliente (inventa un nombre de cliente). El TDR debe ser completo e incluir todos los ítems esenciales que normalmente contiene este tipo de documento, con la siguiente estructura: justificación, alcances del servicio, perfil de la empresa a contratar y condiciones contractuales. 
+Considera lo siguiente: 
+
+- Descripción del Servicio: Define claramente el servicio que se necesita, es decir, el desarrollo e implementación del SGPR 
+
+- Objetivos: Especifica los objetivos que se espera lograr con la contratación del servicio, como la automatización de la gestión de pedidos y la mejora de la eficiencia operativa del restaurante [T1({})]. 
+
+- Especificaciones Técnicas: Detalla las especificaciones técnicas de la solución informática, incluyendo la arquitectura del sistema [T1({})], las tecnologías a utilizar [T1({})], los requisitos de hardware y software [T2({})], y los requisitos funcionales y no funcionales [T2({})] [T3({})]. 
+
+- Requisitos del Contratista: Describe el perfil de la empresa a contratar, incluyendo la experiencia requerida en proyectos similares, las certificaciones necesarias y la capacidad técnica del equipo 
+
+- Tiempo de Ejecución (6 meses): Indica el tiempo de ejecución del contrato , incluyendo las fases del proyecto y los plazos de entrega 
+
+- Condiciones de Pago (45.000.000): Establece las condiciones de pago, incluyendo el precio total del contrato, los hitos de pago y las formas de pago aceptadas 
+
+Consideraciones especiales: 
+
+1. El documento TDR se debe redactar como nombre de solicitante, ejemplo: Una empresa cliente real (ej.: “Restaurante La Terraza solicita…” ) 
+
+2. Nivel de formalidad contractual: Corporativo/legal (lenguaje contractual con cláusulas y obligaciones estrictas) 
+
+3. El documento debe incluir portada, introducción, tabla de contenido y con el mismo estilo aplicado a informes anteriores. 
+
+4. El documento se debe exportar a Word. No preguntar sí quiero revisarlo antes de exportar. 
+ 
+Eliminar: emojis, muletillas, peticiones sútiles y llamadas a la acción adicionales.
+
+Primero presentar el producto 1, y una vez aprobado por mi, proceder con el desarrollo del producto 2 
+
+Documento 2
+
+2. Lista de Chequeo para Evaluación de Proveedores: Crea un formato de lista de chequeo que permita evaluar objetivamente a los proveedores que se ofrezcan para desarrollar el SGPR. 
+
+Esta lista debe cubrir aspectos como: 
+
+- La experiencia del proveedor en proyectos similares 
+
+- Capacidad técnica (considerando las tecnologías mencionadas en la ficha técnica [T1({})]), 
+
+- Calidad de su propuesta 
+
+- Cumplimiento de los requisitos funcionales y no funcionales [T2({})] [T3({})] 
+
+- El precio. 
+
+Incluye también criterios relacionados con la gestión de riesgos, la metodología de desarrollo y el soporte post-implementación. 
+
+Asegúrate de que la lista de chequeo sea clara, concisa y fácil de usar para garantizar una evaluación justa y eficiente." 
+
+
+Información Extra (logo y Banner)
+
+https://www.canva.com/es_es/crear/logos/
+https://www.canva.com/ (1024 x 250)
 
 
