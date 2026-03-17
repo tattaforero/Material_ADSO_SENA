@@ -347,3 +347,165 @@ https://www.canva.com/es_es/crear/logos/
 https://www.canva.com/ (1024 x 250)
 
 
+
+GA2-220501094-AA3-EV01 - EV02
+Propuesta técnica y financiera
+
+Tablas comparativas
+
+Contexto del Proyecto:
+
+Necesito elaborar tablas comparativas de costos para determinar el presupuesto de hardware y software del proyecto Sistema de Gestión de Pedidos para Restaurantes (SGPR), basándome en el documento de la ficha técnica ya proporcionada (Ficha_Tecnica_SGPR_III.docx).
+
+Objetivo Principal:
+
+Crear un documento profesional con tablas comparativas que permitan estimar y comparar costos de al  menos 3 diferentes opciones de hardware y software necesarios para implementar el SGPR, facilitando así la toma de decisiones de inversión.
+
+Requisitos Específicos del Documento:
+
+Estructura del Documento:
+
+Portada profesional (con nombre del proyecto, fecha, responsable)
+Introducción (contexto, objetivo, justificación de las estimaciones)
+Desarrollo del contenido (tablas comparativas)
+Conclusiones (recomendaciones, análisis comparativo, total estimado)
+
+Contenido de las Tablas Comparativas:
+A) Hardware:
+
+Servidores (especificaciones de la ficha técnica: procesador 2.4 GHz, 8GB RAM, 100GB HDD)
+Dispositivos cliente (tablets/smartphones, PCs)
+Equipamiento de red (routers, switches, cableado)
+Comparar al menos 3 opciones por categoría con diferentes proveedores/marcas
+Incluir: marca, modelo, especificaciones, precio unitario, cantidad requerida, subtotal
+
+B) Software:
+Licencias de sistema operativo (Linux/Windows Server)
+Motores de base de datos (MySQL/PostgreSQL)
+Herramientas de desarrollo (Node.js/Java, React/Flutter, Git, etc.)
+Licencias de navegadores y aplicaciones móviles (si aplica)
+Comparar opciones de licenciamiento (código abierto vs comercial, perpetuas vs suscripción)
+Incluir: nombre, tipo de licencia, usuarios/dispositivos, precio, período de licenciamiento
+
+Criterios de Comparación:
+Cumplimiento de especificaciones técnicas de la ficha
+Relación costo-beneficio
+Garantía y soporte técnico
+Escalabilidad futura
+Compatibilidad con los requerimientos del TDR
+
+Formato y Presentación:
+Documento profesional tipo informe técnico
+Tablas estructuradas con formato claro y legible
+Incluir totales y subtotales por categoría
+Resumen ejecutivo de costos al final
+Estilo coherente con documentos anteriores (TDR y Lista de Chequeo)
+
+Consideraciones Adicionales:
+Precios estimados en pesos colombianos (COP)
+Incluir IVA y otros impuestos aplicables
+Considerar costos de implementación/instalación cuando aplique
+Indicar si son precios referenciales o cotizaciones reales
+Fecha de vigencia de los precios estimados
+
+Entregable:
+Un documento exportable a Word que contenga todas las tablas comparativas con análisis, recomendaciones y estimación total del presupuesto de hardware y software para el proyecto SGPR.
+
+
+Propuesta técnica
+
+Contexto del Proyecto:
+Necesito elaborar una Propuesta Técnica formal que responda a los Términos de Referencia (TDR) publicados por Restaurante La Terraza S.A.S. para el desarrollo e implementación del Sistema de Gestión de Pedidos para Restaurantes (SGPR). Esta propuesta será presentada por una empresa proveedora de software que participa en el proceso de contratación.
+
+Documentos de Referencia Disponibles:
+
+- Ficha Técnica del SGPR (Ficha_Tecnica_SGPR_III.docx)
+- Términos de Referencia para Contratación (TDR generado previamente)
+- Tablas Comparativas de Presupuesto Hardware y Software (con cotizaciones seleccionadas)
+- Lista de Chequeo para Evaluación de Proveedores
+
+Objetivo Principal:
+Crear una Propuesta Técnica completa, profesional y competitiva que responda punto por punto a los requerimientos del TDR, utilizando las cotizaciones recomendadas del informe de presupuesto, y que posicione a la empresa proponente como la mejor opción para la adjudicación del contrato.
+
+Estructura Requerida de la Propuesta Técnica:
+
+1. Presentación y Saludos:
+
+- Carta de presentación formal de la empresa proponente (inventar nombre y datos de empresa ficticia pero realista)
+- Saludo cordial al cliente (Restaurante La Terraza S.A.S.)
+- Expresión de interés en el proyecto
+- Mención de la referencia al proceso de contratación
+
+2. Alcance de la Propuesta:
+
+- Descripción clara del objeto contractual que se está proponiendo
+- Delimitación de lo que incluye y no incluye la propuesta
+- Entregables específicos comprometidos
+- Cronograma general de ejecución (6 meses según TDR)
+
+
+3. Valoración de la Situación:
+
+- Análisis de la situación actual del cliente (operación manual, necesidades identificadas)
+- Problemática detectada según TDR (errores manuales, tiempos de atención, control de inventario)
+- Oportunidades de mejora mediante la implementación del SGPR
+- Comprensión de los objetivos estratégicos del cliente
+
+4. Opciones de Propuesta:
+
+- Propuesta técnica principal (arquitectura, tecnologías, módulos)
+- Metodología de desarrollo propuesta (Scrum/Agile)
+- Equipo de trabajo con perfiles profesionales
+- Plan de trabajo por fases
+- Estrategia de implementación y capacitación
+- Opciones alternativas o complementarias (si aplica)
+
+
+5. Estimación de Costos:
+
+- Desglose de costos por fase del proyecto
+- Inversión en hardware (según escenario recomendado: $ 27.910.000)
+- Inversión en software y servicios ($ 1.584.000 primer año)
+- Costo de desarrollo del sistema (inventar costo razonable coherente con TDR)
+- Costo de capacitación, implementación y soporte
+- Total de la propuesta económica
+
+Cotización Formal:
+
+Tabla detallada con ítems, cantidades, valores unitarios y totales
+Discriminación de IVA y retenciones
+Forma de pago propuesta (según estructura del TDR: anticipo, pagos por hitos)
+Vigencia de la cotización (90 días)
+
+
+Términos y Condiciones:
+
+Plazo de ejecución (6 meses)
+Garantías ofrecidas
+Condiciones de pago
+Soporte post-implementación
+Propiedad intelectual del código
+Causales de terminación
+Confidencialidad
+Ley aplicable y jurisdicción
+
+6. Cotización Formal:
+
+- Tabla detallada con ítems, cantidades, valores unitarios y totales
+- Discriminación de IVA y retenciones
+- Forma de pago propuesta (según estructura del TDR: anticipo, pagos por hitos)
+- Vigencia de la cotización (90 días)
+
+
+
+Consideraciones Especiales:
+
+- Empresa Proponente Ficticia: Crear datos creíbles de una empresa colombiana de desarrollo de software (nombre, NIT, representante legal, experiencia, portafolio)
+- Coherencia con TDR: La propuesta debe responder explícitamente a los requisitos establecidos en el TDR
+- Uso de Cotizaciones: Incorporar las opciones recomendadas del informe de presupuesto (Dell PowerEdge T140, Samsung Tab A8, HP All-in-One, TP-Link, etc.)
+- Competitividad: Proponer un costo de desarrollo que sea competitivo y se ajuste al presupuesto estimado del TDR ($ 150 millones)
+- Profesionalismo: Documento formal tipo propuesta comercial con lenguaje técnico-comercial apropiado
+Formato: Word con portada, índice, secciones bien estructuradas, tablas profesionales
+
+Entregable Final:
+Un documento Word completo que contenga la Propuesta Técnica lista para ser presentada formalmente al proceso de contratación de Restaurante La Terraza S.A.S., cumpliendo con todos los requisitos establecidos en el TDR y maximizando las posibilidades de obtener el mayor puntaje en la evaluación.
