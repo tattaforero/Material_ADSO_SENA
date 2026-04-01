@@ -9,9 +9,12 @@ El material está organizado en carpetas por **Guía de Aprendizaje**.
 
 Cada carpeta representa una **Guía de Aprendizaje**, que a su vez contiene sus **Actividades de Aprendizaje (AA)** y las **Evidencias (EV)** correspondientes.  
 
-- **Fase de Análisis**
+- **Fase Análisis**
 - Guía Aprendizaje 01
 - Guía Aprendizaje 02
+
+- **Fase Planeación**
+- Guía Aprendizaje 03
 
 > **Convención de nombres:**  
 > `GA<número>-<código>-AA<actividad>-EV<evidencias>`  
@@ -24,10 +27,15 @@ Cada carpeta representa una **Guía de Aprendizaje**, que a su vez contiene sus 
 Puedes complementar estos materiales con la serie de videos explicativos disponibles en YouTube:  
 
 📺 **Playlist:**  
-- **Fase de Análisis**
+- **Fase Análisis**
 [🔗 Ver en YouTube](https://youtube.com/playlist?list=PLf_F__X19wkBWgWU1mqn-6mlNKhdLQ6uf&si=S-BQ_gPhSoJUDknU)
 
-En esta lista encontrarás explicaciones paso a paso, ejemplos y demostraciones de herramientas de desarrollo utilizadas en la fase de análisis.
+En esta lista encontrarás explicaciones paso a paso, ejemplos y demostraciones de herramientas de desarrollo utilizadas en la fase análisis.
+
+- **Fase Planeación**
+[🔗 Ver en YouTube](https://www.youtube.com/playlist?list=PLf_F__X19wkDjhZMDa1WzXY2_3EnoJe52)
+
+En esta lista encontrarás explicaciones paso a paso, ejemplos y demostraciones de herramientas de desarrollo utilizadas en la fase planeación.
 
 ---
 
