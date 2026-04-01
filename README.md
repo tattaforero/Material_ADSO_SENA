@@ -9,11 +9,11 @@ El material está organizado en carpetas por **Guía de Aprendizaje**.
 
 Cada carpeta representa una **Guía de Aprendizaje**, que a su vez contiene sus **Actividades de Aprendizaje (AA)** y las **Evidencias (EV)** correspondientes.  
 
-- **Fase Análisis**
+**Fase Análisis**
 - Guía Aprendizaje 01
 - Guía Aprendizaje 02
 
-- **Fase Planeación**
+**Fase Planeación**
 - Guía Aprendizaje 03
 
 > **Convención de nombres:**  
